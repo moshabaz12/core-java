@@ -1,4 +1,4 @@
-package corejava;
+package Datatype;
 
 public class primitivedtaatype {
 

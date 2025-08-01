@@ -1,4 +1,4 @@
-package corejava;
+package Datatype;
 
 public class Nonprimitivdatatype {
 
@@ -12,6 +12,11 @@ public class Nonprimitivdatatype {
 	}
 
 }
+
+//Data type in Java refers to the type of data that a variable can hold.
+//It tells the compiler what kind of value a variable is expected to store — like numbers,
+//characters, or true/false values.
+
 
 //Non-primitive data types are called reference types because they refer to objects.
 //
